@@ -1,0 +1,8 @@
+{
+  "name": "AutoMind AI",
+  "description": "AutoMind AI is your personal mobility assistant. It acts as the operating system for your vehicle, providing smart diagnostics, driving behavior analytics, predictive maintenance, and an eco-efficiency optimizer, all accessible through an intuitive AI copilot.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
